@@ -25,8 +25,8 @@ For detailed documentation, refer to the files linked below (written in Indonesi
 | Contributor       | GitHub Profile                                  |
 |-------------------|-------------------------------------------------|
 | **Aidilia Fitriasari**  | [🌐 Profile](https://github.com/sandraalmeera) |
-| **Alqiza**      | [🌐 Profile](https://github.com/yesicafapa) |
-| **Latifa Jauharatul**      | [🌐 Profile](https://github.com/yesicafapa) |
+| **Alqiza**              | [🌐 Profile](https://github.com/alqiza) |
+| **Latifa Jauharatul**   | [🌐 Profile](https://github.com/yesicafapa) |
 
 ---
 
