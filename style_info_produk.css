@@ -1,0 +1,1184 @@
+ .macbook-pro {
+    background-color: #f0eded;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.macbook-pro .div {
+    background-color: #f0eded;
+    width: 100%;
+    max-width: 1512px;
+    position: relative;
+    margin: 0 auto;
+}
+
+  .macbook-pro .overlap {
+    position: relative;
+    width: 1555px;
+    height: 849px;
+    top: 130px;
+    left: 0;
+  }
+  
+  .macbook-pro .overlap-group {
+    position: relative;
+    width: 1555px;
+    height: 846px;
+    top: 3px;
+    left: 0;
+    width: 100px;
+    padding-bottom: 60px;
+  }
+  
+  
+  .macbook-pro .rectangle {
+    width: 1512px;
+    height: 308px;
+    top: 538px;
+    left: 0;
+    background-color: #fffdfd;
+    border: 3px solid;
+    border-color: #ffffff;
+    position: absolute;
+    border-radius: 5px;
+  }
+  
+  .macbook-pro .text-wrapper {
+    position: absolute;
+    width: 98px;
+    top: 570px;
+    left: 552px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-2 {
+    position: absolute;
+    width: 220px;
+    top: 570px;
+    left: 901px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-3 {
+    position: absolute;
+    width: 96px;
+    top: 570px;
+    left: 1196px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-4 {
+    position: absolute;
+    width: 399px;
+    top: 570px;
+    left: 74px;
+    font-family: "Limelight-Regular", Helvetica;
+    font-weight: 400;
+    color: #7fba32;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .macbook-pro .rectangle-2 {
+    width: 91px;
+    height: 45px;
+    top: 612px;
+    left: 550px;
+    background-color: #fff9f9;
+    border: 1px solid;
+    border-color: #7fba32;
+    position: absolute;
+    border-radius: 5px;
+  }
+  
+  .macbook-pro .rectangle-3 {
+    width: 91px;
+    height: 45px;
+    top: 680px;
+    left: 550px;
+    background-color: #fff9f9;
+    border: 1px solid;
+    border-color: #7fba32;
+    position: absolute;
+    border-radius: 5px;
+  }
+  
+  .macbook-pro .text-wrapper-5 {
+    width: 140px;
+    top: 624px;
+    left: 662px;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7fba32;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-6 {
+    width: 140px;
+    top: 696px;
+    left: 662px;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7fba32;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-7 {
+    position: absolute;
+    width: 65px;
+    top: 608px;
+    left: 662px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-8 {
+    position: absolute;
+    width: 116px;
+    top: 678px;
+    left: 662px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .macbook-pro .text-wrapper-7 a,
+.macbook-pro .text-wrapper-8 a {
+  text-decoration: none;
+  color: #000000;
+  transition: color 0.3s, font-weight 0.3s;
+}
+
+.macbook-pro .text-wrapper-7 a:hover,
+.macbook-pro .text-wrapper-8 a:hover {
+  color: #7fba32;      /* Warna saat hover */
+  font-weight: 900;    /* Lebih tebal saat hover */
+  cursor: pointer;
+  text-decoration: none; /* Pastikan tanpa garis bawah */
+}
+
+  
+  .macbook-pro .gula-removebg {
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    top: 614px;
+    left: 574px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .energen-removebg {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    top: 676px;
+    left: 568px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .group {
+    position: absolute;
+    width: 231px;
+    height: 128px;
+    top: 609px;
+    left: 902px;
+  }
+  
+  .macbook-pro .text-wrapper-9 {
+    width: 210px;
+    top: 0;
+    position: absolute;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-10 {
+    width: 219px;
+    top: 28px;
+    position: absolute;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-11 {
+    width: 198px;
+    top: 55px;
+    position: absolute;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-12 {
+    position: absolute;
+    width: 182px;
+    top: 82px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-13 {
+    width: 221px;
+    top: 107px;
+    position: absolute;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .alamat-jl-dawuhan {
+    position: absolute;
+    width: 326px;
+    top: 604px;
+    left: 1196px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-14 {
+    position: absolute;
+    width: 70px;
+    top: 660px;
+    left: 1196px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-15 {
+    position: absolute;
+    width: 319px;
+    top: 697px;
+    left: 1196px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-16 {
+    position: absolute;
+    width: 359px;
+    top: 733px;
+    left: 1196px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+.macbook-pro .text-wrapper-17 {
+  position: absolute;
+  width: 198px;
+  top: 814px;
+  left: 688px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+  
+  .macbook-pro .toko-dadi-rejo {
+    width: 347px;
+    top: 620px;
+    font-family: "Inter-Regular", Helvetica;
+    color: #000000;
+    font-size: 22px;
+    position: absolute;
+    left: 74px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .vector {
+    position: absolute;
+    width: 581px;
+    height: 126px;
+    top: 314px;
+    left: 0;
+  }
+  
+  .macbook-pro .text-wrapper-18 {
+    position: absolute;
+    width: 228px;
+    top: 360px;
+    left: 52px;
+    font-family: "Inter-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #fff9f9;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-19 {
+    position: absolute;
+    width: 84px;
+    top: 362px;
+    left: 149px;
+    font-family: "Inter-BoldItalic", Helvetica;
+    font-weight: 700;
+    font-style: italic;
+    color: #fff9f9;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .rectangle-4 {
+    width: 263px;
+    height: 89px;
+    top: 439px;
+    left: 0;
+    background-color: #fffdfd;
+    border: 3px solid;
+    border-color: #ffffff;
+    position: absolute;
+    border-radius: 5px;
+  }
+  
+  .macbook-pro .rectangle-5 {
+    width: 262px;
+    height: 89px;
+    top: 439px;
+    left: 265px;
+    background-color: #fffdfd;
+    border: 3px solid;
+    border-color: #ffffff;
+    position: absolute;
+    border-radius: 5px;
+  }
+  
+  .macbook-pro .rectangle-6 {
+    width: 264px;
+    height: 89px;
+    top: 439px;
+    left: 529px;
+    background-color: #fffdfd;
+    border: 3px solid;
+    border-color: #ffffff;
+    position: absolute;
+    border-radius: 5px;
+  }
+  
+  .macbook-pro .text-wrapper-20 {
+    width: 95px;
+    top: 479px;
+    left: 130px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 15px;
+    white-space: nowrap;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .pengiriman-super {
+    position: absolute;
+    width: 104px;
+    top: 470px;
+    left: 413px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .produk-berkualitas {
+    width: 96px;
+    top: 470px;
+    left: 679px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 15px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .kurir-removebg {
+    position: absolute;
+    width: 95px;
+    height: 96px;
+    top: 435px;
+    left: 307px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .ori-removebg-preview {
+    position: absolute;
+    width: 118px;
+    height: 71px;
+    top: 449px;
+    left: 18px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .img {
+    position: absolute;
+    width: 107px;
+    height: 113px;
+    top: 432px;
+    left: 556px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .text-wrapper-21 {
+    position: absolute;
+    width: 177px;
+    top: 2px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .macbook-pro .text-wrapper-22 {
+    position: absolute;
+    width: 185px;
+    top: 4px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-23 {
+    position: absolute;
+    width: 167px;
+    top: 3px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-24 {
+    position: absolute;
+    width: 154px;
+    top: 3px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .macbook-pro .text-wrapper-25 {
+    position: absolute;
+    width: 187px;
+    top: 2px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .macbook-pro .text-wrapper-21:hover,
+.macbook-pro .text-wrapper-22:hover,
+.macbook-pro .text-wrapper-23:hover,
+.macbook-pro .text-wrapper-24:hover,
+.macbook-pro .text-wrapper-25:hover {
+  color: #7fba32;              /* Warna teks saat hover */
+  font-weight: 500; /* Tambah garis bawah saat hover */
+  cursor: pointer;             /* Ubah kursor jadi tangan */
+}
+
+.macbook-pro .text-wrapper-21,
+.macbook-pro .text-wrapper-22,
+.macbook-pro .text-wrapper-23,
+.macbook-pro .text-wrapper-24,
+.macbook-pro .text-wrapper-25 {
+  transition: color 0.3s, font-weight 0.3s;
+  text-decoration: none;
+}
+  
+ .macbook-pro .mdi-light-account-wrapper {
+    position: absolute;
+    width: 121px;
+    height: 73px;
+    top: 0;
+    left: 1375px;
+    background-color: #f0eded;
+    border-radius: 5px;
+    border: 3px solid;
+    border-color: #fffbfb;
+  }
+  
+  .macbook-pro .mdi-light-account {
+    width: 59px;
+    top: 4px;
+    position: absolute;
+    height: 59px;
+    left: 28px;
+  }
+  
+  .macbook-pro .mdi-light-cart-wrapper {
+    position: absolute;
+    width: 121px;
+    height: 72px;
+    top: 87px;
+    left: 1375px;
+    background-color: #f0eded;
+    border-radius: 5px;
+    border: 3px solid;
+    border-color: #fffbfb;
+  }
+  
+  .macbook-pro .img-2 {
+    width: 58px;
+    top: 5px;
+    position: absolute;
+    height: 59px;
+    left: 28px;
+  }
+  
+  .macbook-pro .mdi-light-bell-wrapper {
+    position: absolute;
+    width: 121px;
+    height: 74px;
+    top: 174px;
+    left: 1375px;
+    background-color: #f0eded;
+    border-radius: 5px;
+    border: 3px solid;
+    border-color: #fffbfb;
+  }
+ 
+  .macbook-pro .overlap-8 {
+    position: absolute;
+    width: 1512px;
+    height: 123px;
+    top: 0;
+    left: 0;
+    background-color: #fff9f9;
+  }
+  
+  .macbook-pro .text-wrapper-38 {
+    width: 398px;
+    top: 32px;
+    font-family: "Limelight-Regular", Helvetica;
+    color: #7fba32;
+    font-size: 40px;
+    white-space: nowrap;
+    position: absolute;
+    left: 74px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .overlap-9 {
+    position: absolute;
+    width: 565px;
+    height: 49px;
+    top: 35px;
+    left: 561px;
+    background-color: #fffbfb;
+    border-radius: 3px;
+    border: 1px solid;
+    border-color: #88a1ad;
+  }
+  /* Style untuk logo rumah */
+.macbook-pro .home-logo-wrapper {
+  position: absolute;
+  width: 45px;
+  height: 49px;
+  top: 35px;
+  left: 500px; /* Posisi disesuaikan di sebelah kiri search box */
+  border-radius: 5px;
+  border: 2px solid #7fba32;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+.macbook-pro .home-logo-wrapper:hover {
+  transform: scale(1.05);
+  border-color: #6aa12a;
+  background-color: #f5f5f5;
+}
+
+.macbook-pro .home-logo {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+  
+  /* pencarian */
+  .macbook-pro .search-form {
+    display: flex;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .macbook-pro .search-input {
+    flex: 1;
+    border: none;
+    padding: 0 15px;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 14px;
+    background: transparent;
+    outline: none;
+  }
+  
+  .macbook-pro .search-button {
+    width: 84px;
+    height: 49px;
+    background-color: #7fba32;
+    border: none;
+    border-radius: 0 3px 3px 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .macbook-pro .search-icon {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .macbook-pro .group-wrapper {
+    position: absolute;
+    width: 84px;
+    height: 49px;
+    top: 67px;
+    left: 1055px;
+    background-color: #7fba32;
+    border-radius: 3px;
+  }
+  
+  .macbook-pro .group-2 {
+    position: relative;
+    width: 36px;
+    height: 27px;
+    top: 12px;
+    left: 23px;
+    background-image: url(./img/search.svg);
+    background-size: 100% 100%;
+  }
+  
+  .macbook-pro .jl-dawuhan-kec-taman {
+    position: absolute;
+    width: 196px;
+    top: 52px;
+    left: 1251px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .text-wrapper-43 {
+    position: absolute;
+    width: 105px;
+    top: 30px;
+    left: 1253px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  } 
+  
+  /* icon sebalah kanan */
+  /* Style untuk wrapper icon */
+  .macbook-pro .mdi-light-account-wrapper,
+  .macbook-pro .mdi-light-cart-wrapper,
+  .macbook-pro .mdi-light-bell-wrapper,
+  .macbook-pro .mdi-light-settings-wrapper {
+    position: absolute;
+    width: 90px; /* Lebar diperkecil agar lebih proporsional */
+    height: 60px; /* Tinggi disamakan */
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 3px solid #7fba32;
+    cursor: pointer; /* Menunjukkan ini bisa diklik */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s; /* Efek hover halus */
+  }
+  
+  /* Posisi masing-masing icon */
+  .macbook-pro .mdi-light-account-wrapper {
+    top: 20px;
+    left: 1375px;
+  }
+  
+  .macbook-pro .mdi-light-cart-wrapper {
+    top: 90px;
+    left: 1375px;
+  }
+  
+  .macbook-pro .mdi-light-bell-wrapper {
+    top: 160px;
+    left: 1375px;
+  }
+  
+  .macbook-pro .mdi-light-settings-wrapper {
+    top: 230px;
+    left: 1375px;
+  }
+  
+  /* Style untuk gambar icon */
+  .macbook-pro .mdi-light-account,
+  .macbook-pro .img-2,
+  .macbook-pro .mdi-light-settings {
+    width: 40px;
+    top: 10px;
+    height: 40px;
+    object-fit: contain;
+  }
+  
+  /* Efek saat hover */
+  .macbook-pro .mdi-light-account-wrapper:hover,
+  .macbook-pro .mdi-light-cart-wrapper:hover,
+  .macbook-pro .mdi-light-bell-wrapper:hover,
+  .macbook-pro .mdi-light-settings-wrapper:hover {
+    background-color: #e0e0e0;
+  }
+  
+  /* Efek saat ditekan */
+  .macbook-pro .mdi-light-account-wrapper:active,
+  .macbook-pro .mdi-light-cart-wrapper:active,
+  .macbook-pro .mdi-light-bell-wrapper:active,
+  .macbook-pro .mdi-light-settings-wrapper:active {
+    background-color: #d0d0d0;
+    transform: scale(0.95);
+  }
+
+  /* STYLE INFO PRODUK */
+  .detail-produk {
+    display: flex;
+    justify-content: center;
+    margin: 150px auto;
+    max-width: 800px;
+    height: 500px;
+  }
+  
+  .produk-card {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+  }
+  
+  .gambar-produk {
+    width: 250px;
+    height: 300px;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  
+  .info-produk {
+    flex: 1;
+    
+  }
+  
+  .nama-produk {
+    font-size: 24px;
+    margin: 0 0 10px 0;
+    color: #333;
+  }
+  
+  .harga-produk {
+    font-size: 20px;
+    color: green;
+    margin-bottom: 15px;
+  }
+  
+  .deskripsi-produk {
+    font-size: 20px;
+    color: #555;
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  /* Style untuk container tombol keranjang */
+.btn-keranjang {
+  background-color: #7fba32;
+  border: none;
+  border-radius: 8px;
+  padding: 5px;
+  width: 100px; /* Lebar lebih besar untuk visual yang lebih baik */
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Tambahkan container untuk gambar produk */
+.gambar-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Style untuk gambar keranjang */
+.btn-keranjang img {
+  width: 36px; /* Ukuran lebih besar */
+  height: 36px;
+  object-fit: contain;
+  filter: brightness(0) invert(1); /* Membuat ikon putih */
+}
+
+/* Efek hover */
+.btn-keranjang:hover {
+  background-color: #6aa12a;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Efek aktif saat diklik */
+.btn-keranjang:active {
+  transform: translateY(0);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+  /* TENTANG KAMI */
+
+  .tentang-kami-box {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    max-width: 600px;
+    margin: 30px auto;
+    margin-top: 150px;
+    padding: 28px 24px 18px 24px;
+    font-family: Arial, sans-serif;
+  }
+  .tentang-kami-box h2 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  .tentang-kami-box p {
+    font-size: 1em;
+    color: #222;
+    margin-bottom: 16px;
+    line-height: 1.6;
+  }
+  .tentang-kami-box .info-kontak {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 18px;
+  }
+  .tentang-kami-box .alamat {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    color: #222;
+    font-size: 1em;
+  }
+  .tentang-kami-box .alamat i {
+    color: #7fba32;
+    font-size: 1.3em;
+    margin-right: 8px;
+  }
+  .tentang-kami-box .telepon {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    color: #222;
+    font-size: 1em;
+  }
+  .tentang-kami-box .telepon i {
+    color: #7fba32;
+    font-size: 1.2em;
+    margin-right: 8px;
+  }
+
+        /* PROFILE CONTENT STYLES */
+      .profile-content {
+        position: absolute;
+        top: 150px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 400px;
+        background: white;
+        border-radius: 10px;
+        padding: 30px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      }
+      
+      .profile-header {
+        text-align: center;
+        margin-bottom: 25px;
+      }
+      
+      .profile-title {
+        font-size: 24px;
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 5px;
+        text-align: left;
+      }
+      
+      .profile-form {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      }
+      
+      .form-group {
+        display: flex;
+        flex-direction: column;
+      }
+      
+      .form-group label {
+        font-weight: 600;
+        margin-bottom: 8px;
+        color: #555;
+      }
+      
+      .form-group input,
+      .form-group select {
+        padding: 12px 15px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        font-size: 16px;
+      }
+      
+      .save-btn {
+        background-color: #7fba32;
+        color: white;
+        border: none;
+        padding: 12px;
+        font-size: 16px;
+        border-radius: 6px;
+        cursor: pointer;
+        margin-top: 10px;
+        transition: background-color 0.3s;
+      }
+      
+      .save-btn:hover {
+        background-color: #7fba32;
+      }
+
+      .hapus-btn {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.action-buttons {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.tambah-btn,
+.beli-btn {
+  background-color: #7fba32;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.beli-btn {
+  background-color: #7fba32;
+}
+
+
+.search-placeholder-text {
+  font-size: 14px;
+  color: #555;
+  padding: 10px;
+  text-align: left;
+  margin-left: 30px; /* geser ke kanan */
+}
+
+/*STYLE BUAT KONTEN TENGAH KERANJANG*/
+.keranjang-container {
+  max-width: 600px;
+  margin: 130px auto 30px;
+  padding: 25px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.item-keranjang {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.item-keranjang img {
+  width: 80px;
+  height: 80px;
+  margin-right: 15px;
+}
+
+.info-produk .nama-produk {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.info-produk .harga-produk {
+  font-size: 14px;
+  color: #444;
+  margin-top: 5px;
+}
+
+.tombol-beli-wrapper {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.btn-beli {
+  padding: 10px 30px;
+  background-color: #7fba32;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.aksi-keranjang {
+  margin-left: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btn-tambah, .btn-hapus {
+  padding: 5px 10px;
+  margin: 3px 0;
+  font-weight: bold;
+  background-color: #7fba32;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.judul-keranjang-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.icon-kembali {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
