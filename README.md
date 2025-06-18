@@ -3,44 +3,38 @@
 
 ## 📂 Daftar Isi Folder
 - **Dokumen UAS** 📄
-  - 📘 Dokumentasi Awal Proyek Pengembangan Basis Data Toko Risky Bawang dan Palawija.pdf
-  - 📙 Fitur Database[1].pdf
-  - 📗 LAPORAN TUGAS UAS kelompok 2.pdf
-  - 📕 MANUAL PENGGUNAAN SISTEM MANAJEMEN.pdf
+  - 📘 Link Figma Desain Toko Dadi Rejo
+  - 📙 Dokumentasi Awal Database
+  - 📗 Codingan PHP
+    
 - **Folder Basic** 📁
-  - 🔧 Codingan composer
-
----
-
-## Tech Stack
-![Database](https://img.shields.io/badge/database-MySQL-green) ![Framework](https://img.shields.io/badge/framework-Yii2-blue) ![Language](https://img.shields.io/badge/language-PHP-blue) ![Environment](https://img.shields.io/badge/environment-XAMPP-orange) ![Dependencies](https://img.shields.io/badge/dependencies-Composer-yellow)
+  - Folder gambar
 
 ---
 
 ## Documentation
 For detailed documentation, refer to the files linked below (written in Indonesian):
 
-- 📘 [Dokumen Awal Proyek](#)
-- 📙 [Fitur Basis Data](#)
-- 📗 [Laporan Tugas UAS](#)
-- 📕 [Manual Penggunaan Sistem](#)
+- 📘 .Link Figma Desain Toko Dadi Rejo --> https://www.figma.com/design/bJqGDyGd36PlaHhla4FkvX/PROYEK-DADI-REJO?node-id=0-1&t=yzf4XqkO8dUqGxls-1
+- 📙 .Dokumentasi Awal Database
+- 📗 .Codingan PHP
 
 ---
 
 ## 🤝 Contributors
 | Contributor       | GitHub Profile                                  |
-|-------------------|------------------------------------------------|
-| **Adia Sandra**  | [🌐 Profile](https://github.com/sandraalmeera) |
-| **Yessica**      | [🌐 Profile](https://github.com/yesicafapa)    |
+|-------------------|-------------------------------------------------|
+| **Aidilia Fitriasari**  | [🌐 Profile](https://github.com/aidiliafitriasari) |
+| **Alqiza**              | [🌐 Profile](https://github.com/alqiza) |
+| **Latifa Jauharatul**   | [🌐 Profile](https://github.com/Latifa270) |
 
 ---
 
 ## 📝 Deskripsi
-This repository is the collaborative work of **Kelompok 2** for the **UAS Project**. It includes:
-- 📌 Initial project documentation.
-- 📌 Database features.
-- 📌 Group project report.
-- 📌 System usage manual.
+This repository is the collaborative work of **Kelompok 3** for the **UAS Project**. It includes:
+- 📌 Codingan PHP.
+- 📌 Database phpmyadmin.
+- 📌 Hosting Infinityfree.
 
 We hope this repository provides a clear understanding of our project. 😊
 
@@ -49,7 +43,7 @@ We hope this repository provides a clear understanding of our project. 😊
 ## 🚀 How to Use
 1. Clone this repository locally:
    ```bash
-   git clone https://github.com/AbidRafiul/UAS_Kelompok2.git
+   https://github.com/Latifa270/Toko-Dadi-Rejo
    ```
 2. Open the document files in the "Dokumen UAS" folder.
 3. Follow the system usage manual for further information.
