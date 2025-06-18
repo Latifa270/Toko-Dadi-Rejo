@@ -3,35 +3,30 @@
 
 ## 📂 Daftar Isi Folder
 - **Dokumen UAS** 📄
-  - 📘 Dokumentasi Awal Proyek Pengembangan Basis Data Toko Risky Bawang dan Palawija.pdf
-  - 📙 Fitur Database[1].pdf
-  - 📗 LAPORAN TUGAS UAS kelompok 2.pdf
-  - 📕 MANUAL PENGGUNAAN SISTEM MANAJEMEN.pdf
+  - 📘 Link Figma Desain Toko Dadi Rejo
+  - 📙 Dokumentasi Awal Database
+  - 📗 Codingan PHP
+    
 - **Folder Basic** 📁
-  - 🔧 Codingan composer
-
----
-
-## Tech Stack
-![Database](https://img.shields.io/badge/database-MySQL-green) ![Framework](https://img.shields.io/badge/framework-Yii2-blue) ![Language](https://img.shields.io/badge/language-PHP-blue) ![Environment](https://img.shields.io/badge/environment-XAMPP-orange) ![Dependencies](https://img.shields.io/badge/dependencies-Composer-yellow)
+  - Folder gambar
 
 ---
 
 ## Documentation
 For detailed documentation, refer to the files linked below (written in Indonesian):
 
-- 📘 [Dokumen Awal Proyek](#)
-- 📙 [Fitur Basis Data](#)
-- 📗 [Laporan Tugas UAS](#)
-- 📕 [Manual Penggunaan Sistem](#)
+- 📘 .Link Figma Desain Toko Dadi Rejo --> https://www.figma.com/design/bJqGDyGd36PlaHhla4FkvX/PROYEK-DADI-REJO?node-id=0-1&t=yzf4XqkO8dUqGxls-1
+- 📙 .Dokumentasi Awal Database
+- 📗 .Codingan PHP
 
 ---
 
 ## 🤝 Contributors
 | Contributor       | GitHub Profile                                  |
-|-------------------|------------------------------------------------|
-| **Adia Sandra**  | [🌐 Profile](https://github.com/sandraalmeera) |
-| **Yessica**      | [🌐 Profile](https://github.com/yesicafapa)    |
+|-------------------|-------------------------------------------------|
+| **Aidilia Fitriasari**  | [🌐 Profile](https://github.com/sandraalmeera) |
+| **Alqiza**      | [🌐 Profile](https://github.com/yesicafapa) |
+| **Latifa Jauharatul**      | [🌐 Profile](https://github.com/yesicafapa) |
 
 ---
 
