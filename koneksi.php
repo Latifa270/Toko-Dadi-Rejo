@@ -1,16 +1,9 @@
 <?php
+$con = new mysqli("localhost", "root", "", "db_tokodadirejo", "3309");
 
-// Koneksi database
-$host = "sql111.infinityfree.com";
-$user = "if0_39248955";
-$pass = "y8DEnRhIHyhEn"; 
-$db   = "if0_39248955_db_tokodadirejo";
-
-$con = new mysqli($host, $user, $pass, $db);
-
-// Cek koneksi 
+//check connection
 if ($con->connect_error) {
-    die("Koneksi gagal: " . $con->connect_error);
+    die ("Connection failed: ". $con->connect_error);
 }
 
 ?>
