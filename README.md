@@ -24,18 +24,17 @@ For detailed documentation, refer to the files linked below (written in Indonesi
 ## 🤝 Contributors
 | Contributor       | GitHub Profile                                  |
 |-------------------|-------------------------------------------------|
-| **Aidilia Fitriasari**  | [🌐 Profile](https://github.com/sandraalmeera) |
+| **Aidilia Fitriasari**  | [🌐 Profile](https://github.com/aidiliafitriasari) |
 | **Alqiza**              | [🌐 Profile](https://github.com/alqiza) |
-| **Latifa Jauharatul**   | [🌐 Profile](https://github.com/yesicafapa) |
+| **Latifa Jauharatul**   | [🌐 Profile](https://github.com/Latifa270) |
 
 ---
 
 ## 📝 Deskripsi
-This repository is the collaborative work of **Kelompok 2** for the **UAS Project**. It includes:
-- 📌 Initial project documentation.
-- 📌 Database features.
-- 📌 Group project report.
-- 📌 System usage manual.
+This repository is the collaborative work of **Kelompok 3** for the **UAS Project**. It includes:
+- 📌 Codingan PHP.
+- 📌 Database phpmyadmin.
+- 📌 Hosting Infinityfree.
 
 We hope this repository provides a clear understanding of our project. 😊
 
