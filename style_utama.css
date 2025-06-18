@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    font-family: 'Arial', sans-serif;
+    height: 100%;
+}
+
+.hero {
+    background-image: url("gambar/backgroundUtama.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.6) 30%, rgba(0, 0, 0, 0) 80%);
+    display: flex;
+    justify-content: space-between; /* Membuat dua kolom kiri dan kanan */
+    align-items: flex-end; /* Rata bawah */
+    padding: 50px;
+}
+
+.content-left {
+    color: white;
+    max-width: 500px;
+}
+
+.content-left h1 {
+    font-size: 40px;
+    line-height: 1.4;
+}
+
+.content-right {
+    text-align: right;
+    margin-bottom: 75px;
+    margin-right: 100px; 
+}
+
+.btn-daftar {
+    display: inline-block;
+    background-color: #8BC34A;
+    color: white;
+    padding: 12px 60px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.login-link {
+    font-size: 14px;
+    color: white;
+}
+
+.login-link a {
+    color: #8BC34A;
+    text-decoration: none;
+    font-weight: bold;
+}
